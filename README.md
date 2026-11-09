@@ -115,15 +115,6 @@ AquaGuard_AI/
 └── README.md
 ```
 
-## Suggested 3-minute narrated demo
-
-1. **0:00–0:25 — Problem:** Explain that periodic readings and monthly bills can hide unusual campus water use.
-2. **0:25–0:55 — Overview:** Open the dashboard and show five meters, daily consumption and total readings.
-3. **0:55–1:30 — Anomaly review:** Show candidate flags, expected baseline, excess volume and grouped events. State that flags are not confirmed leaks.
-4. **1:30–1:55 — Forecast:** Show the next seven days and explain the 70/30 weekday-aware baseline.
-5. **1:55–2:20 — Simulator:** Enter 25 L/hour, 48 hours and 8 hours; show 1,200 L, 200 L and 1,000 L potential difference.
-6. **2:20–2:45 — Evaluation/data:** Show synthetic benchmark metrics and CSV upload/export.
-7. **2:45–3:00 — Close:** Explain the next step: an authorized pilot with real meter data and inspection-confirmed events.
 
 ## Author
 
