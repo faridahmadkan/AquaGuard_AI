@@ -1,0 +1,1 @@
+The demo_readings.csv file is generated reproducibly by aquaguard.data.generate_demo_data(seed=42). All records are synthetic.
